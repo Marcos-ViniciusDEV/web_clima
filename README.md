@@ -4,9 +4,6 @@ Este é um projeto de aplicação web para consulta de clima, desenvolvido para 
 
 O grande diferencial deste projeto foi a evolução de um design simples para uma interface de usuário (UI) moderna, responsiva e visualmente atraente, utilizando o efeito glassmorphism (vidro fosco) e uma paleta de cores vibrante.
 
-
-(Sugestão: troque o link acima por um print da sua tela)
-
 ✨ Funcionalidades Principais
 Busca em Tempo Real: Pesquise por qualquer cidade para obter os dados meteorológicos mais recentes.
 
